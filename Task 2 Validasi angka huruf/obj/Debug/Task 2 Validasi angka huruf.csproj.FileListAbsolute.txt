@@ -1,0 +1,5 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Task 2 Validasi angka huruf\Task 2 Validasi angka huruf\bin\Debug\Task 2 Validasi angka huruf.exe.config
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Task 2 Validasi angka huruf\bin\Debug\Task 2 Validasi angka huruf.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Task 2 Validasi angka huruf\bin\Debug\Task 2 Validasi angka huruf.pdb
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Task 2 Validasi angka huruf\obj\Debug\Task 2 Validasi angka huruf.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Task 2 Validasi angka huruf\obj\Debug\Task 2 Validasi angka huruf.pdb

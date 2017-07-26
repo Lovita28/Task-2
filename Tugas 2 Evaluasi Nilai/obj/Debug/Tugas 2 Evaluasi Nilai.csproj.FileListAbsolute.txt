@@ -1,0 +1,5 @@
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Tugas 2 Evaluasi Nilai\bin\Debug\Tugas 2 Evaluasi Nilai.exe.config
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Tugas 2 Evaluasi Nilai\bin\Debug\Tugas 2 Evaluasi Nilai.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Tugas 2 Evaluasi Nilai\bin\Debug\Tugas 2 Evaluasi Nilai.pdb
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Tugas 2 Evaluasi Nilai\obj\Debug\Tugas 2 Evaluasi Nilai.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Task 2 Validasi angka huruf\Tugas 2 Evaluasi Nilai\obj\Debug\Tugas 2 Evaluasi Nilai.pdb
